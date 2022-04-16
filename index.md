@@ -1,37 +1,71 @@
-## Welcome to GitHub Pages
+## Portfolio
 
-You can use the [editor on GitHub](https://github.com/shivanibarney/shivanibarney.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I'm an SEO Executive with an experience of over 2 years. I have hands on experience working with Marketing Strategies, Keyword Analysis, Website Optimization, Strategies for off-page optimization & Google Analytics. Ability to work with website development team to drive SEO activities.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### SKills
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"
+      alt="gcp"
+      width="40"
+      height="40"
+    />
+  </a>
+  &nbsp;
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+      alt="html5"
+      width="40"
+      height="40"
+    />
+  </a>
+  &nbsp;
 
-```markdown
-Syntax highlighted code block
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
+      alt="linux"
+      width="40"
+      height="40"
+    />
+  </a>
+  &nbsp;
+<hr />
 
-# Header 1
-## Header 2
-### Header 3
+## EXPERIENCE
 
-- Bulleted
-- List
+### Websterz Technologies, Mohali (as an SEO Executive)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+"Websterz Technologies provides Website Designing and Development services, Print Media and Digital Media Services. Worked in Websterz Technologies as SEO Trainee for 5 Months.
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### SEO Discovery - Mohali (SEO Executive)
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shivanibarney/shivanibarney.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+"SEO Discovery is a digital marketing company and everything about it. Founded in 2007 and carrying a considerable experience of 14 years in the Internet and Search Engine Marketing turns our story quite a glorious one. With domestic and overseas projects under our sleeve, we take pride in bringing business to our clients in this cut-throat market. From a team of merely three employees, we've grown to a team of 250+ SEO professionals and Content Writers who strive to deliver powerful, process-driven and cost-effective IT solutions that include, but are not limited to: SEO, PPC, Digital Marketing, Content Marketing and Reputation Management." I worked here as an SEO executive exp. 1.3 year in SEO Discovery as SEO and Influencer Executive.
 
-### Support or Contact
+### Netmente, Mohali 
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+"Netmente is an Internet technology solutions company that caters to all kind of IT services like Interactive Web Design, Web Development, E-Commerce solutions, Mobile Apps, SEO, SMM, Digital Marketing, Web Hosting, Website Maintenance and other online solutions. We are helping businesses worldwide, to upgrade, become more productive & increase their clientele.."I worked here as an SEO executive exp. 1.3 year in SEO Discovery as SEO and Influencer Executive".
+
+<hr />
+
+## EDUCATION
+
+### DAV University, Jalandhar
+
+### B. Tech 
+
+GPA 7.2
+
+<hr />
+
+## INTERESTS
+
+Apart from being a SEO Expernice., I also learn to automate my work using many technologies such as App engine, and others.
+
+I adore being outside and go for a run every day, play cricket and badminton on weekends, and cycle on occasionally. I enjoy visiting new places and learning about different cultures. When I'm at home, I like to play video games, create code, and sometimes paint.
