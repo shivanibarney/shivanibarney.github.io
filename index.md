@@ -49,7 +49,7 @@ I'm an SEO Executive with an experience of over 2 years. I have hands on experie
 
 ### Netmente, Mohali 
 
-"Netmente is an Internet technology solutions company that caters to all kind of IT services like Interactive Web Design, Web Development, E-Commerce solutions, Mobile Apps, SEO, SMM, Digital Marketing, Web Hosting, Website Maintenance and other online solutions. We are helping businesses worldwide, to upgrade, become more productive & increase their clientele.."I worked here as an SEO executive exp. 1.3 year in SEO Discovery as SEO and Influencer Executive".
+"Netmente is an Internet technology solutions company that caters to all kind of IT services like Interactive Web Design, Web Development, E-Commerce solutions, Mobile Apps, SEO, SMM, Digital Marketing, Web Hosting, Website Maintenance and other online solutions. We are helping businesses worldwide, to upgrade, become more productive & increase their clientele.." Here I'm working as an SEO executive.
 
 <hr />
 
