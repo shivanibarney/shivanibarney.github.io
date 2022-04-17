@@ -23,7 +23,6 @@ I'm an SEO Executive with an experience of over 2 years. I have hands on experie
     />
   </a>
   &nbsp;
-
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
