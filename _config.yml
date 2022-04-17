@@ -1,1 +1,12 @@
-theme: jekyll-theme-minimal
+title: Shivani Barney # your name (or website title) here
+logo: "/profile-pic.jpg?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+ SEO Executive
+  <br><br>
+  <a href="mailto:shivani.barney@gmail.com">shivani.barney@gmail.com </a>
+  <br>
+  <a target="_blank" href="https://www.linkedin.com/in/shivani-barney-16081918b/">LinkedIn Profile</a>
+  <br>
+  <a target="_blank" href="https://www.instagram.com/shivanibarney/">Instagram</a>
+  <br>
+  <a target="_blank" href="https://github.com/shivanibarney/">Github</a> 
