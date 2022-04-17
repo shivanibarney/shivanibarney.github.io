@@ -10,3 +10,4 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a target="_blank" href="https://www.instagram.com/shivanibarney/">Instagram</a>
   <br>
   <a target="_blank" href="https://github.com/shivanibarney/">Github</a> 
+theme: jekyll-theme-minimal
