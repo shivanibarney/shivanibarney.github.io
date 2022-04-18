@@ -5,15 +5,6 @@ I'm an SEO Executive with an experience of over 2 years. I have hands on experie
 
 ### SKills
 
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"
-      alt="gcp"
-      width="40"
-      height="40"
-    />
-  </a>
-  &nbsp;
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
@@ -27,6 +18,60 @@ I'm an SEO Executive with an experience of over 2 years. I have hands on experie
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
       alt="linux"
+      width="40"
+      height="40"
+    />
+  </a>
+  &nbsp;
+<a href="https://ahrefs.com/" target="_blank" rel="noreferrer">
+    <img
+      src="images/ahref.png"
+      alt="ahref"
+      width="40"
+      height="40"
+    />
+  </a>
+  &nbsp;
+<a href="https://pagespeed.web.dev/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.gstatic.com/pagespeed/insights/ui/logo/favicon_48.png"
+      alt="pagespeed"
+      width="40"
+      height="40"
+    />
+  </a>
+  &nbsp;
+<a href="https://analytics.google.com/" target="_blank" rel="noreferrer">
+    <img
+      src="images/Google_Analytics.png"
+      alt="Google_Analytics"
+      width="40"
+      height="40"
+    />
+  </a>
+  &nbsp;
+<a href="https://ads.google.com/intl/en_in/home/" target="_blank" rel="noreferrer">
+    <img
+      src="images/google-keyword-planner.png"
+      alt="Google-Ads"
+      width="40"
+      height="40"
+    />
+  </a>
+  &nbsp;
+<a href="https://search.google.com/search-console/about" target="_blank" rel="noreferrer">
+    <img
+      src="images/Google-Search-Console.jpg"
+      alt="Google-Search-Console"
+      width="40"
+      height="40"
+    />
+  </a>
+  &nbsp;
+<a href="https://moz.com/" target="_blank" rel="noreferrer">
+    <img
+      src="images/moz.jpg"
+      alt="moz"
       width="40"
       height="40"
     />
